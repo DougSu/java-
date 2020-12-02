@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="case">
+    <output-path>$PROJECT_DIR$/out/artifacts/case</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="case" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="application" name="c3p0-0.9.1.2" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="case/web/Webapp" />
+    </root>
+  </artifact>
+</component>
