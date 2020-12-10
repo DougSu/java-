@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/case/case.iml" filepath="$PROJECT_DIR$/case/case.iml" />
       <module fileurl="file://$PROJECT_DIR$/dapool/dapool.iml" filepath="$PROJECT_DIR$/dapool/dapool.iml" />
       <module fileurl="file://$PROJECT_DIR$/filter/filter.iml" filepath="$PROJECT_DIR$/filter/filter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/redis/redis.iml" filepath="$PROJECT_DIR$/redis/redis.iml" />
     </modules>
   </component>
 </project>
